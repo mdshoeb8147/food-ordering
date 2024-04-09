@@ -4,7 +4,7 @@ import './App.css'
 const App = () => {
   return (
 
-<Button>Click Me</Button>
+<Button>Click</Button>
   )
 }
 export default App
